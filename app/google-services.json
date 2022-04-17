@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "977136812369",
+    "project_id": "test-room-treat",
+    "storage_bucket": "test-room-treat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977136812369:android:1e5d330bbda85249b4d370",
+        "android_client_info": {
+          "package_name": "com.techparksystems.expenseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "977136812369-fe4jrs5la5s9puju2qnbefl0r0tc07k8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbqQTPQLhVKvE-Np_jYw8J0z3PVWysGc4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "977136812369-fe4jrs5la5s9puju2qnbefl0r0tc07k8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

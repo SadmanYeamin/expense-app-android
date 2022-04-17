@@ -5,6 +5,10 @@
       <map>
         <entry key="..\:/ExpenseApp/app/src/main/res/layout/activity_dashboard.xml" value="0.36666666666666664" />
         <entry key="..\:/ExpenseApp/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/User/StudioProjects/expense-app-android/app/src/main/res/layout/activity_dashboard.xml" value="0.2" />
+        <entry key="..\:/Users/User/StudioProjects/expense-app-android/app/src/main/res/layout/single_food.xml" value="0.25" />
+        <entry key="..\:/Users/User/StudioProjects/expense-app-android/app/src/main/res/layout/single_person.xml" value="0.1" />
+        <entry key="..\:/Users/User/StudioProjects/expense-app-android/app/src/main/res/layout/single_person_dashboard.xml" value="0.1" />
       </map>
     </option>
   </component>
